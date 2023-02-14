@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi!
 
-<!--
-**ClearwaterUK/ClearwaterUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Clearwater, a half-English half-French programming blue bird.
+I like to make and learn things and mess around with code, as well as modding games to add various kinds of content.
+In 2022, I graduated from the University of Caen with a Bachelor's degree in Computer Science, and am continuing my Masters studies in that field.
 
-Here are some ideas to get you started:
+#### Languages and frameworks I'm skilled with:
+```markdown
+| C#            | Databases       | C/C++    | Python     | Java      | Web languages | Other Languages | IDEs                               |
+|---------------|-----------------|----------|------------|-----------|---------------|-----------------|------------------------------------|
+| BepInEx       | MySQL+MariaDB   | Nana GUI | NumPy      | Swing+AWT | HTML+JS+CSS   | Haskell         | Visual Studio + Visual Studio Code |
+| Harmony       | MongoDB         | LPSolve  | SciPy      | JUnit     | PHP           | OCaml           | Rider                              |
+| Unity modding | Neo4j + GraphQL |          | PyGame     | LibGDX    | Bootstrap     |                 | Eclipse                            |
+| JSON.NET      |                 |          | Matplotlib |           | React         |                 | Notepad++ :)                       |
+|               |                 |          | NLTK       |           |               |                 |                                    |
+```
+Native English speaker, fluent French speaker, knows a little bit of German and Italian on the side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### More information about me, as well as info on projects I've worked on, can be found on my GitHub or my [personal site](https://clearwateruk.github.io/).
