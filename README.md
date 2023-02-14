@@ -1,4 +1,4 @@
-## Hi!
+## Hi! 🐦
 
 ### I'm Clearwater, a half-English half-French programming blue bird.
 I like to make and learn things and mess around with code, as well as modding games to add various kinds of content.
