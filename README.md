@@ -6,14 +6,15 @@ In 2022, I graduated from the University of Caen with a Bachelor's degree in Com
 
 #### Languages and frameworks I'm skilled with:
 
-| C#            | Databases       | C/C++    | Python     | Java      | Web languages | Other Languages | IDEs                               |
-|---------------|-----------------|----------|------------|-----------|---------------|-----------------|------------------------------------|
-| BepInEx       | MySQL+MariaDB   | Nana GUI | NumPy      | Swing+AWT | HTML+JS+CSS   | Haskell         | Visual Studio + Visual Studio Code |
-| Harmony       | MongoDB         | LPSolve  | SciPy      | JUnit     | PHP           | OCaml           | Rider                              |
-| Unity modding | Neo4j + GraphQL |          | PyGame     | LibGDX    | Bootstrap     |                 | Eclipse                            |
-| JSON.NET      |                 |          | Matplotlib |           | React         |                 | Notepad++ :)                       |
-|               |                 |          | NLTK       |           |               |                 |                                    |
+| C#                                            | Databases               | C/C++    | Python     | Java      | Web languages & Frameworks | Other Languages | IDEs                               |
+|-----------------------------------------------|-------------------------|----------|------------|-----------|----------------------------|-----------------|------------------------------------|
+| Unity + Unity modding tools(Harmony, BepInEx) | MySQL,MariaDB, Postgres | Nana GUI | NumPy      | Swing+AWT | HTML+JS+CSS                | Haskell         | Visual Studio + Visual Studio Code |
+| JSON.NET                                      | MongoDB                 | LPSolve  | SciPy      | JUnit     | PHP                        | OCaml           | Rider                              |
+| Godot (Currently learning)                    | Neo4j + GraphQL         |          | PyGame     | LibGDX    | Bootstrap                  |                 | Eclipse                            |
+|                                               |                         |          | Matplotlib |           | React                      |                 | CLion                              |
+|                                               |                         |          | NLTK       |           | Laravel                    |                 | Notepad++ :)                       |
 
 Native English speaker, fluent French speaker, knows a little bit of German and Italian on the side.
 
 #### More information about me, as well as info on projects I've worked on, can be found on my GitHub or my [personal site](https://clearwateruk.github.io/).
+Profile picture made by the wonderful [ElusivePurple](https://twitter.com/ElusivePurple).
