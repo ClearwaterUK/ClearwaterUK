@@ -9,13 +9,13 @@ My main side hobby is creating mods and servers for various different games.
 ---
 
 ### Languages and I'm skilled with:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,java,php,discord,dotnet,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,cpp,java,php,discord,nodejs,python)](https://skillicons.dev)
 
 ### Databases I'm skilled with:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,graphql)](https://skillicons.dev)
 
 ### Frameworks I'm skilled with:
-[![My Skills](https://skillicons.dev/icons?i=laravel,express,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,express,react,bootstrap,django,angular)](https://skillicons.dev)
 
 ### I like to tinker with these game engines:
 [![My Skills](https://skillicons.dev/icons?i=unity,godot,gamemakerstudio)](https://skillicons.dev)
